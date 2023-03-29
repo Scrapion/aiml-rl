@@ -1,0 +1,41 @@
+reward_dps = {
+    "damageEnemyStatue": 1.5,
+    "damageEnemyUnit": 1,
+    "killEnemyStatue": 16,
+    "killEnemyUnit":5,
+    "healFriendlyStatue":0,
+    "healTeammate1":0,
+    "healTeammate2":0,
+    "timeSpentHomeBase":0,
+    "timeSpentHomeTerritory":0,
+    "timeSpentAwayTerritory":0,
+    "timeSpentAwayBase":0,
+    "damageTaken":-9,
+    "friendlyFire":-2,
+    "healEnemy":-3,
+    "fallDamageTaken":-10,
+    "statueDamageTaken":-2,
+    "teamSpirit":0,
+    "timeScaling":1
+}
+
+"""reward_dps = {
+    "damageEnemyStatue": 2,
+    "damageEnemyUnit": 3,
+    "killEnemyStatue": 5,
+    "killEnemyUnit":4,
+    "healFriendlyStatue":0,
+    "healTeammate1":0,
+    "healTeammate2":0,
+    "timeSpentHomeBase":0,
+    "timeSpentHomeTerritory":0,
+    "timeSpentAwayTerritory":0,
+    "timeSpentAwayBase":0,
+    "damageTaken":-3,
+    "friendlyFire":-2,
+    "healEnemy":-3,
+    "fallDamageTaken":-2,
+    "statueDamageTaken":-1,
+    "teamSpirit":0,
+    "timeScaling":1
+}"""

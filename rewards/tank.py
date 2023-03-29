@@ -1,0 +1,41 @@
+reward_tank = {
+    "damageEnemyStatue": 1.5,
+    "damageEnemyUnit": 1.5,
+    "killEnemyStatue": 16,
+    "killEnemyUnit":5,
+    "healFriendlyStatue":0,
+    "healTeammate1":0,
+    "healTeammate2":0,
+    "timeSpentHomeBase":-10,
+    "timeSpentHomeTerritory":0,
+    "timeSpentAwayTerritory":7,
+    "timeSpentAwayBase":7,
+    "damageTaken":2,
+    "friendlyFire":-8,
+    "healEnemy":0,
+    "fallDamageTaken":-10,
+    "statueDamageTaken":-2,
+    "teamSpirit":0,
+    "timeScaling":1
+}
+
+"""reward_tank = {
+    "damageEnemyStatue": 3,
+    "damageEnemyUnit": 2,
+    "killEnemyStatue": 5,
+    "killEnemyUnit":3,
+    "healFriendlyStatue":0,
+    "healTeammate1":0,
+    "healTeammate2":0,
+    "timeSpentHomeBase":-1,
+    "timeSpentHomeTerritory":0,
+    "timeSpentAwayTerritory":1,
+    "timeSpentAwayBase":1,
+    "damageTaken":2,
+    "friendlyFire":-2,
+    "healEnemy":0,
+    "fallDamageTaken":-2,
+    "statueDamageTaken":-1,
+    "teamSpirit":0,
+    "timeScaling":1
+}"""
